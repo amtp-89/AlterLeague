@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <form #playerCreate="ngForm" (ngSubmit)="onClickSubmit(playerCreate.value)">
+        <div class="form-group">
+          <label class="labelStyle">Name</label>
+          <input type="text" name="name" placeholder="name" ngModel class="form-control" id="name" required>
+        </div>
+
+        <div class="form-group">
+          <label class="labelStyle">Birthdate</label>
+          <input type="date" name="birthdate" placeholder="birthdate" ngModel class="form-control" id="birth" required>
+        </div>
+
+        <div class="form-group">
+          <label class="labelStyle">Photo</label>
+          <input type="file" name="photo" placeholder="photo" ngModel class="form-control" id="photo" required>
+        </div>
+
+        <input type="submit" value="Add" class="btn-primary createStyle" />
+      </form>
+
+    </div>
+  </div>
+</div>

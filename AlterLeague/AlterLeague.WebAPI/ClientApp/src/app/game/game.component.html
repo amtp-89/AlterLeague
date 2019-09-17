@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="row">
+
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th class="tdth1Resize">Location</th>
+          <th class="tdth2Resize">Result</th>
+          <th class="tdth3Resize">Played</th>
+          <th class="tdth4Resize">
+            <button type="button" class="btn-primary createStyle" [routerLink]="['/game-create']">New</button>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let game of games" [routerLink]="['/game-info', game.gameId]">
+          <td class="tdth1Resize">{{ game.location }}</td>
+          <td class="tdth2Resize">{{ game.result }}</td>
+          <td class="tdth3Resize">{{ game.played }}</td>
+          <td class="tdth4Resize">
+            <img src="/assets/img/delete.png" class="deleteStyle" [routerLink]='["/"]' style="cursor: pointer;" />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>

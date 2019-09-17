@@ -1,0 +1,12 @@
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\bin\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.deps.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\bin\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\bin\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\bin\Debug\netcoreapp2.2\AlterLeague.Domain.Model.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\bin\Debug\netcoreapp2.2\AlterLeague.Domain.Model.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\obj\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.csprojAssemblyReference.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\obj\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.csproj.CoreCompileInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\obj\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.AssemblyInfoInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\obj\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.AssemblyInfo.cs
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\obj\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.csproj.CopyComplete
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\obj\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.ILogic\obj\Debug\netcoreapp2.2\AlterLeague.Domain.ILogic.pdb

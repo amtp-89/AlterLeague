@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlterLeague.Data.IDAL\AlterLeague.Data.IDAL.csproj" />
+    <ProjectReference Include="..\AlterLeague.Domain.ILogic\AlterLeague.Domain.ILogic.csproj" />
+  </ItemGroup>
+
+</Project>

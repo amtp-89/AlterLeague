@@ -1,0 +1,33 @@
+<div class="container">
+  <div *ngIf="game" class="row">
+
+    <div class="col-sm-12">
+      <table class="table-striped">
+        <tbody>
+          <tr>
+            <th>Location</th>
+            <td>{{ game.location }}</td>
+          </tr>
+          <tr>
+            <th>Price</th>
+            <td>{{ game.price }}</td>
+          </tr>
+          <tr>
+            <th>Price per Player</th>
+            <td>{{ game.pricePerPerson }}</td>
+          </tr>
+          <tr>
+            <th>Time</th>
+            <td>{{ game.time }}</td>
+          </tr>
+          <tr>
+            <th>Played</th>
+            <td>{{ game.player }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>
+

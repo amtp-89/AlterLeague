@@ -1,0 +1,37 @@
+<div class="container">
+  <div class="row">
+
+    <table *ngIf="players" class="table">
+      <thead>
+        <tr>
+          <th class="tdth1Resize">Players</th>
+          <th class="tdth2Resize">Name</th>
+          <th class="tdth3Resize">Total Games</th>
+          <th class="tdth4Resize">
+            <button type="button" class="btn-primary createStyle" [routerLink]="['/player-create']">New</button>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let player of players" [routerLink]="['/player-profile', player.playerId]" style="cursor: pointer;">
+          <td class="tdth1Resize"><img [src]='player.photo' class="photoResize" /></td>
+          <td class="tdth2Resize">{{ player.name }}</td>
+          <td class="tdth3Resize">{{ player.total }}</td>
+          <td class="tdth4Resize">
+            <img src="/assets/img/delete.png" class="deleteStyle" [routerLink]='["/"]' style="cursor: pointer;" />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>
+<!--<ul class="pagination justify-content-center">
+  <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+  <li class="page-item"><a class="page-link" href="#">1</a></li>
+  <li class="page-item"><a class="page-link" href="#">2</a></li>
+  <li class="page-item"><a class="page-link" href="#">3</a></li>
+  <li class="page-item"><a class="page-link" href="#">Next</a></li>
+</ul>-->
+
+

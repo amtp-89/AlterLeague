@@ -1,0 +1,9 @@
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\bin\Debug\netcoreapp2.2\AlterLeague.Domain.Model.deps.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\bin\Debug\netcoreapp2.2\AlterLeague.Domain.Model.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\bin\Debug\netcoreapp2.2\AlterLeague.Domain.Model.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\obj\Debug\netcoreapp2.2\AlterLeague.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\obj\Debug\netcoreapp2.2\AlterLeague.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\obj\Debug\netcoreapp2.2\AlterLeague.Domain.Model.AssemblyInfo.cs
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\obj\Debug\netcoreapp2.2\AlterLeague.Domain.Model.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\obj\Debug\netcoreapp2.2\AlterLeague.Domain.Model.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Domain.Model\obj\Debug\netcoreapp2.2\AlterLeague.Domain.Model.csprojAssemblyReference.cache

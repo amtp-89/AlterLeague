@@ -1,0 +1,46 @@
+<div class="container">
+  <div *ngIf="player" class="row">
+
+    <div class="col-sm-3">
+      <img [src]='player.photo' class="photoResize" />
+    </div>
+
+    <div class="col-sm-9">
+      <table class="table-striped table-hover tableResize">
+        <tbody class="tdRight trResize">
+          <tr>
+            <th>Name</th>
+            <td>{{ player.name }}</td>
+          </tr>
+          <tr>
+            <th>Birthdate</th>
+            <td>{{ player.birth }}</td>
+          </tr>
+          <tr>
+            <th>Age</th>
+            <td>{{ player.age }}</td>
+          </tr>
+          <tr>
+            <th>Wins</th>
+            <td>{{ player.wins }}</td>
+          </tr>
+          <tr>
+            <th>Ties</th>
+            <td>{{ player.ties }}</td>
+          </tr>
+          <tr>
+            <th>Losses</th>
+            <td>{{ player.losses }}</td>
+          </tr>
+          <tr>
+            <th>Total Games</th>
+            <td>{{ player.total }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>
+
+

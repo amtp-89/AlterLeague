@@ -1,0 +1,26 @@
+@media (max-width: 767px) {
+  /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+  .body-content {
+    padding-top: 50px;
+  }
+}
+
+.createStyle {
+  width: 55px !important;
+  color: #4a4945 !important;
+  background-color: #f09809 !important;
+  border-color: #4a4945 !important;
+  vertical-align: middle;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px !important;
+}
+
+.deleteStyle {
+  width: 30px !important;
+  height: 30px !important;
+  vertical-align: middle;
+  cursor: pointer;
+  margin-right: 12px;
+}
+

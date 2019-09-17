@@ -1,0 +1,18 @@
+.photoResize {
+  object-fit: fill;
+  width: 203px !important;
+  height: 203px !important;
+  border-style: double;
+}
+
+.tableResize {
+  width: 100% !important;
+}
+
+.trResize tr {
+  height: 29px !important;
+}
+
+.tdRight td {
+  text-align: right !important;
+}

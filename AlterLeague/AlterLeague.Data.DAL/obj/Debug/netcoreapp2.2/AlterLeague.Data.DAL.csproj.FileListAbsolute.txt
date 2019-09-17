@@ -1,0 +1,16 @@
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.DAL.deps.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.DAL.runtimeconfig.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.DAL.runtimeconfig.dev.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.DAL.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.DAL.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.EF.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.IDAL.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.EF.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\bin\Debug\netcoreapp2.2\AlterLeague.Data.IDAL.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\obj\Debug\netcoreapp2.2\AlterLeague.Data.DAL.csprojAssemblyReference.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\obj\Debug\netcoreapp2.2\AlterLeague.Data.DAL.csproj.CoreCompileInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\obj\Debug\netcoreapp2.2\AlterLeague.Data.DAL.AssemblyInfoInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\obj\Debug\netcoreapp2.2\AlterLeague.Data.DAL.AssemblyInfo.cs
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\obj\Debug\netcoreapp2.2\AlterLeague.Data.DAL.csproj.CopyComplete
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\obj\Debug\netcoreapp2.2\AlterLeague.Data.DAL.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.DAL\obj\Debug\netcoreapp2.2\AlterLeague.Data.DAL.pdb

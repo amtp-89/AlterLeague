@@ -1,0 +1,11 @@
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\bin\Debug\netcoreapp2.2\AlterLeague.Data.EF.deps.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\bin\Debug\netcoreapp2.2\AlterLeague.Data.EF.runtimeconfig.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\bin\Debug\netcoreapp2.2\AlterLeague.Data.EF.runtimeconfig.dev.json
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\bin\Debug\netcoreapp2.2\AlterLeague.Data.EF.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\bin\Debug\netcoreapp2.2\AlterLeague.Data.EF.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\obj\Debug\netcoreapp2.2\AlterLeague.Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\obj\Debug\netcoreapp2.2\AlterLeague.Data.EF.AssemblyInfoInputs.cache
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\obj\Debug\netcoreapp2.2\AlterLeague.Data.EF.AssemblyInfo.cs
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\obj\Debug\netcoreapp2.2\AlterLeague.Data.EF.dll
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\obj\Debug\netcoreapp2.2\AlterLeague.Data.EF.pdb
+C:\Users\António Pereira\source\repos\AlterLeague\AlterLeague\AlterLeague.Data.EF\obj\Debug\netcoreapp2.2\AlterLeague.Data.EF.csprojAssemblyReference.cache

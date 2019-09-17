@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.IDAL\\AlterLeague.Data.IDAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.EF\\AlterLeague.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.EF\\AlterLeague.Data.EF.csproj",
+        "projectName": "AlterLeague.Data.EF",
+        "projectPath": "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.EF\\AlterLeague.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\António Pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\António Pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.IDAL\\AlterLeague.Data.IDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.IDAL\\AlterLeague.Data.IDAL.csproj",
+        "projectName": "AlterLeague.Data.IDAL",
+        "projectPath": "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.IDAL\\AlterLeague.Data.IDAL.csproj",
+        "packagesPath": "C:\\Users\\António Pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.IDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\António Pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.EF\\AlterLeague.Data.EF.csproj": {
+                "projectPath": "C:\\Users\\António Pereira\\source\\repos\\AlterLeague\\AlterLeague\\AlterLeague.Data.EF\\AlterLeague.Data.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
